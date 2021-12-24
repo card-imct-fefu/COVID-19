@@ -1,0 +1,2 @@
+2021-12-24 10:21:08.033824 - Total persons detected: 2
+2021-12-24 10:22:08.178195 - Total persons detected: 2
